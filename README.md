@@ -4,6 +4,7 @@
 In this project, I have created a comprehensive Call Center Analysis utilizing Excel for data cleaning and visualization. The primary objective of this project is to provide actionable insights and facilitate informed decision-making within the Call centers. By leveraging Excel, I have successfully transformed raw call center data into a user-friendly, interactive dashboard with filters for call days and centers that empower stakeholders to make decisions with valuable insights.
 
 **📊 Summary of Key Findings: Insights from Call Center Analysis 📊**
+
 **Calls by Channel:** There was a total of 3291 callers, most of these callers preferred to lodge their complaints through the call centers with 10,639 callers taking 32% of the channels of calls, the rest of the callers were relatively distributed between chat boxes, emails, and web.
 
 **Calls by Center:** The most dominant call center is Los Angeles/CA followed by Baltimore/MD, while Chicago/IL and Denver/CO call centers had the lowest number of calls.
